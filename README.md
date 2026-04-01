@@ -11,3 +11,7 @@ Python-based application featuring an AI-driven enemy that adapts to user behavi
 
 ## Technologies
 - Python
+
+## Demo
+
+![Gameplay Demo](gameplay-demo.png)
